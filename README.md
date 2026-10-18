@@ -110,3 +110,7 @@ android-app/    Kotlin / Compose app: watcher service, QR pairing, upload client
 - Figma paste goes through the clipboard and works only while Figma is frontmost. Images are always pasted at 360px wide at the viewport centre, and there is no automatic layout or spacing.
 - Android-only: iOS is not supported.
 - Keep the project outside iCloud-synced folders (e.g. `~/Desktop`, `~/Documents`): iCloud renames build files mid-write and breaks Gradle builds.
+
+## License
+
+[MIT](LICENSE) © 2026 Sanoop Menon
