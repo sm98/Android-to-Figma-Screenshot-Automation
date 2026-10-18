@@ -1,0 +1,16 @@
+.DS_Store
+
+# Mac app (SwiftPM + packaged bundle)
+mac-app/.build/
+mac-app/ScreenshotSync.app/
+mac-app/ScreenshotSync.dmg
+
+# Android
+android-app/.gradle/
+android-app/build/
+android-app/app/build/
+android-app/local.properties
+*.apk
+
+# Release bundle output
+dist/
